@@ -8,11 +8,11 @@ NOTICE: The git repo to push should only contain a Zotonic site, not the whole Z
 
 ### Configure your site
 
-    $ heroku config:add BUILDPACK_URL="https://github.com/cstar/heroku-buildpack-zotonic.git" -a YOUR_APP
+    $ heroku config:add BUILDPACK_URL="https://github.com/mbbx6spp/heroku-buildpack-zotonic.git" -a YOUR_APP
 
 or
-    
-    $ heroku create --buildpack "https://github.com/cstar/heroku-buildpack-zotonic.git"
+
+    $ heroku create --buildpack "https://github.com/mbbx6spp/heroku-buildpack-zotonic.git"
 
 ### Configure your Zotonic site
 
@@ -68,3 +68,8 @@ Eric Cestari
 http://twitter.com/cstar
 
 http://eric.cestari.info/
+
+### CONTRIBUTORS
+
+This is Susan Potter's fork. She's known as [mbbx6spp](https://github.com/mbbx6spp)
+on GitHub and [@SusanPotter](https://twitter.com/SusanPotter) on Twitter.
